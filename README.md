@@ -9,6 +9,7 @@
 
 
 you can : 
+
   close your eyes  
   
   show us your best middle finger 
