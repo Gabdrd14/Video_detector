@@ -5,10 +5,11 @@
 
 
 1 ==> pip install -r requirements.txt
+
 2 ==> python main.py
 
 
-you can : 
+ ## You can : 
 
   close your eyes  
   
