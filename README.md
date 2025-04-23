@@ -9,6 +9,8 @@
 
 
 you can : 
-  close your eyes
+  close your eyes  
+  
   show us your best middle finger 
+  
   and smile like no one
