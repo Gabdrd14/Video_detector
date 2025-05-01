@@ -17,4 +17,4 @@
   
   and smile like no one
 
-  swipe with your finger and get a state
+  swipe with your finger and get a state change
