@@ -16,3 +16,5 @@
   show us your best middle finger 
   
   and smile like no one
+
+  swipe with your finger and get a state
