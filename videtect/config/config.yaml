@@ -1,4 +1,4 @@
 active_detectors:
-  - eye_closure
-  - middle_finger
-  - emotion
+
+  - swipe
+
